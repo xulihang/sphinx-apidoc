@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/intro/docstring.rst:2
+msgid "Docstring——将文档写在代码中"
+msgstr ""
+
+#: ../../source/intro/docstring.rst:4
+msgid "文档字符串（docstring）是书写在源代码中的文档，类似于注释。但它和注释及javadoc不一样，会在运行时中保留，这样在程序运行时也可以查看文档信息。"
+msgstr ""
+
+#: ../../source/intro/docstring.rst:6
+msgid "Python，Lisp和Julia等语言都支持这一功能。"
+msgstr ""
+
+#: ../../source/intro/docstring.rst:8
+msgid "在Python的交互式界面下，我们可以通过help()函数显示docstring。"
+msgstr ""
+
+#: ../../source/intro/docstring.rst:23
+msgid "Python中，docstring用三个引号引起来。位于文件开头则是对整个文件的说明。位于类或者函数下方则是对这两者的说明。"
+msgstr ""
+
+#: ../../source/intro/docstring.rst:25
+msgid "例如上面的代码显示的requests的get函数的说明在源代码中是这样保存的："
+msgstr ""
+
+#: ../../source/intro/docstring.rst:42
+msgid "我们可以分析一下docstring都由哪几部分组成。比如一个函数，一般由简介、参数、返回值和返回类型构成docstring的内容。"
+msgstr ""
+
+#: ../../source/intro/docstring.rst:44
+msgid ""
+"根据Python的\\ `PEP 257 <https://www.python.org/dev/peps/pep-0257/>`_\\ "
+"标准，python文件一般都要求有docstring。Docstring作为注释，可以使代码更容易被别人读懂。同时它也能方便的在Python终端中被调用。"
+msgstr ""
+

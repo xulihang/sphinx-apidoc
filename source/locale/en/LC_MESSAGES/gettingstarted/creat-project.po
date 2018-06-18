@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/gettingstarted/creat-project.rst:2
+msgid "创建一个sphinx项目"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:4
+msgid "首先，我们运行 **sphinx-quickstart** 来自动创建一个sphinx项目。"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:6
+msgid "你会被问到一些关于项目设置的问题，其中需要注意的是，您需要启用autodoc扩展。"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:15
+msgid "如果您创建时没有选择启用autodoc，您也可以通过修改conf.py文件实现：需要修改extensions那个列表，加入以下内容："
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:22
+msgid "运行如上命令后会生成一个文件夹，结构如下"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:38
+msgid "source文件夹是保存rst源文件的，build是保存生成的html和pdf等文件的，根据之前的设定，两个文件夹可以合并。"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:40
+msgid "index.rst是项目的主文档，我们可以在其中的toctree里添加其它rst文件。"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:51
+msgid "生成文档。"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:53
+msgid "在根目录下运行如下命令，可以选择不同的输出格式，比如以下命令会输出网页。"
+msgstr ""
+
+#: ../../source/gettingstarted/creat-project.rst:59
+msgid "基本的sphinx项目介绍就是这样，我们下一步讲解如何从含有docstring的源代码文件生成API文档。"
+msgstr ""
+

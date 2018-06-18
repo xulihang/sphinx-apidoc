@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/getYiyi.rst:2
+msgid "获得意译模块"
+msgstr ""
+
+#: getYiyi.get_wordnet_pos:1 of
+msgid "nltk的tag需要转换为wordnet的tag以便做词性还原"
+msgstr ""
+
+#: getYiyi.lemmatize:1 of
+msgid "传入一个tuple：('morning', 'NN')，然后进行词形还原。"
+msgstr ""
+
+#: getYiyi.match:1 of
+msgid "匹配英汉词典和同义词词典来判断是否意译"
+msgstr ""
+

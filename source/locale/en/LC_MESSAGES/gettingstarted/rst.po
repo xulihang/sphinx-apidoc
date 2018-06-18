@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/gettingstarted/rst.rst:2
+msgid "用restructuredText自己撰写文档"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:4
+msgid "自动生成的API文档可能比较简单，我们会需要自己补充一些内容，这时就需要我们用restructuredText进行写作了。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:6
+msgid "restructuredText是Sphinx默认使用的写作语言，可以让我们像写代码一样来进行文档的创作。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:9
+msgid "段落"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:10
+msgid "段落是rst中的基本单位，每个段落需要有一个空行分割。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:13
+msgid "行内标记"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:15
+msgid "常见的行内标记有以下几个，用法非常简单。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:17
+msgid "一个星号: \\*text\\* 斜体"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:18
+msgid "两个星号: \\*\\*text\\*\\* 粗体"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:19
+msgid "反引号: \\`\\`text\\`\\` 表示等宽代码。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:23
+msgid "列表"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:25
+msgid "无序列表用星号开头，有序列表可以用数字或者井号开头。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:39
+msgid "定义列表则使用缩进来实现："
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:47
+msgid "分级"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:49
+msgid "rst使用以下形式表示标题："
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:57
+msgid "使用不同的符号表示不同的等级，但不限定每级使用什么符号。推荐使用如下标准："
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:59
+msgid "\\# 用于部分"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:60
+msgid "\\* 用于章节"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:61
+msgid "\\= 一级标题"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:62
+msgid "\\- 二级标题"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:63
+msgid "\\^ 三级标题"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:67
+msgid "代码块"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:69
+msgid "在段落后面加上::，代码需要空一行并缩进后输入在后面。默认支持python代码的高亮显示。我们也可以用code-block指令来引用代码。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:73
+msgid "代码测试块"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:75
+msgid "代码测试块不需要像代码块一样进行缩进："
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:82
+msgid "指令（Directives）"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:84
+msgid ""
+"Directives是Roles之外的另一个rst使用的显式标记，用以拓展它的功能。Directive "
+"block包含三个部分：参数（arguments），选项（options，一个rst语法表示的列表)，内容（content）。"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:86
+msgid "它的结构通常是这样的：::"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:94
+msgid "比如插入一个图片：::"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:100
+msgid "插入一个危险提示：::"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:106
+msgid "Beware killer rabbits!"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:108
+msgid "插入一个csv表格：::"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:117
+msgid "Frozen Delights!"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "Treat"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "Quantity"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "Description"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "Albatross"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "2.99"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "On a stick!"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "Crunchy Frog"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "1.49"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:1
+msgid "If we took the bones out, it wouldn't be crunchy, now would it?"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:124
+msgid "sphinx给rst添加了一个toctree指令，用来安排目录。它可以连接不同的文件，使得我们可以把内容写在不同的文件里。::"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:134
+msgid "链接"
+msgstr ""
+
+#: ../../source/gettingstarted/rst.rst:136
+msgid "使用以下代码可以在行内使用链接：::"
+msgstr ""
+

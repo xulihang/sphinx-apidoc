@@ -1,0 +1,33 @@
+本地化文档
+=================
+
+Sphinx支持使用gettext以支持项目的本地化。gettext是本地化常用的一个标准。
+
+下图是一个Sphinx本地化的大致流程：
+
+.. image:: /images/translation.png
+
+以下是具体操作方法：
+
+1. 用 ``pip install sphinx-intl`` 命令安装sphinx-intl。
+2. 在conf.py文件中添加以下配置：::
+
+    locale_dirs = ['locale/']   # path is example but recommended.
+    gettext_compact = False     # optional.
+
+3. 生成gettext的pot文件：::
+
+    make gettext
+
+4. 创建或者更新locale文件夹，这里我们可以指定目标语言：::
+
+    sphinx-intl update -p _build/gettext -l en
+
+5. 翻译上一步在locale/en/LC_MESSAGES文件夹下生成的po文件。
+6. 生成翻译的文档：::
+
+    make -e SPHINXOPTS="-D language='en'" html
+
+或者直接使用 **sphinx-build** 来生成在指定文件夹：::
+
+    sphinx-build -M html source en -D language=en

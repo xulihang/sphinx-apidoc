@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/more/other-languages.md:3
+msgid "Sphinx默认支持生成Python的API文档，但对于其它语言的支持不佳。有一款Sphinx的扩展，叫做Breathe，便可以使Sphinx支持其它语言。"
+msgstr ""
+
+#: ../../source/more/other-languages.md:5
+msgid "Breathe是Sphinx和Doxygen这两个文档工具的桥梁，这样Doxygen支持的语言也可以用到Sphinx当中。而Doxygen支持的语言就比较广泛了："
+msgstr ""
+
+#: ../../source/more/other-languages.md:19
+msgid "更多见Breathe的主页：http://breathe.readthedocs.io/en/latest/"
+msgstr ""
+

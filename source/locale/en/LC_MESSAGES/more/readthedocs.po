@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/more/readthedocs.rst:2
+msgid "使用readthedocs托管文档"
+msgstr ""
+
+#: ../../source/more/readthedocs.rst:5
+msgid "readthedocs是一个文档托管平台，很多著名的python项目都将文档托管在这上面。"
+msgstr ""
+
+#: ../../source/more/readthedocs.rst:7
+msgid "我们将项目传到github上，再在readthedocs中绑定该项目。这样就有了一个持续集成环境。每次修改被提交到github上，readthedocs就会基于最新的项目构建一次网页和PDF。"
+msgstr ""
+

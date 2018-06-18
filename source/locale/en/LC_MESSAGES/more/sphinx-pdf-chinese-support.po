@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/more/sphinx-pdf-chinese-support.rst:2
+msgid "生成中文PDF"
+msgstr ""
+
+#: ../../source/more/sphinx-pdf-chinese-support.rst:3
+msgid "Sphinx是将rst文件转为latex文件以生成pdf的，装好latex后，在项目目录下运行make latexpdf就可以生成了。"
+msgstr ""
+
+#: ../../source/more/sphinx-pdf-chinese-support.rst:5
+msgid "以下是一些注意事项，主要是conf.py的修改："
+msgstr ""
+
+#: ../../source/more/sphinx-pdf-chinese-support.rst:7
+msgid "修改latex_elements里的preamble，添加ctex或者cjk宏包可以支持中文。"
+msgstr ""
+
+#: ../../source/more/sphinx-pdf-chinese-support.rst:8
+msgid "修改language可以更改默认的语言，在生成的tex文件中会使用renewcommand修改原来的日期等信息为对应语言的。但默认中文的章节名没有得到更改，可以用以下代码不显示英文的Chapter。注意latex里有很多斜杠，在python中需要在引号前加r以避免转义。"
+msgstr ""
+

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/intro/sphinx.rst:2
+msgid "Sphinx——文档生成工具"
+msgstr ""
+
+#: ../../source/intro/sphinx.rst:4
+msgid "Sphinx是用来生成文档的工具，最初专门为Python设计，很多知名的Python项目都采用Sphinx编写的文档。"
+msgstr ""
+
+#: ../../source/intro/sphinx.rst:6
+msgid "它使用reStructuredText这一标记语言写文档，可以输出多种格式，包括PDF、HTML和man page等等。"
+msgstr ""
+
+#: ../../source/intro/sphinx.rst:8
+msgid "Sphinx本身用Python编写，可以通过以下命令安装："
+msgstr ""
+
+#: ../../source/intro/sphinx.rst:14
+msgid "以下是Sphinx生成的网页版文档的界面："
+msgstr ""
+

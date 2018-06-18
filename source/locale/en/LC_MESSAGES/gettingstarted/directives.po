@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/gettingstarted/directives.rst:2
+msgid "ApiDoc使用的指令"
+msgstr ""
+
+#: ../../source/gettingstarted/directives.rst:4
+msgid "打开生成的代码的rst文件，可以看到如下内容："
+msgstr ""
+
+#: ../../source/gettingstarted/directives.rst:16
+msgid ""
+"automodule指令会自动生成所有的class、function和exception等内容。可以在它下面的members里指定要生成的对象。 "
+"使用 ``:undoc-members:`` 后，没有docstirng的部分也会得到处理。 ``:show-inheritance:`` "
+"用来显示基类的信息。"
+msgstr ""
+
+#: ../../source/gettingstarted/directives.rst:18
+msgid "使用如下的autoclass ::"
+msgstr ""
+
+#: ../../source/gettingstarted/directives.rst:23
+msgid ""
+"则不会对私有的方法（以_开始和结束）做处理。如果要记录私有的方法和属性，可以使用 ``:private-"
+"members:``。要记录特殊对象（以__开始和结束），可以使用 ``:special-members:``。"
+msgstr ""
+
+#: ../../source/gettingstarted/directives.rst:25
+msgid "更多参见sphinx官网：http://www.sphinx-doc.org/en/master/ext/autodoc.html"
+msgstr ""
+

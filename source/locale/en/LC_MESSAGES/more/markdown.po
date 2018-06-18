@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Xu Lihang
+# This file is distributed under the same license as the sphinx-apidoc
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-apidoc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 21:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/more/markdown.rst:2
+msgid "使用Markdown"
+msgstr ""
+
+#: ../../source/more/markdown.rst:4
+msgid "Markdown是比restructuredText更加轻量的标记语言。Sphinx支持用Markdown进行写作。"
+msgstr ""
+
+#: ../../source/more/markdown.rst:6
+msgid "启用Markdown需要如下步骤："
+msgstr ""
+
+#: ../../source/more/markdown.rst:8
+msgid "安装recommonmark：::"
+msgstr ""
+
+#: ../../source/more/markdown.rst:12
+msgid "添加如下内容到conf.py中：::"
+msgstr ""
+
+#: ../../source/more/markdown.rst:18
+msgid "添加Markdown的文件扩展名到配置文件的source_suffix变量：::"
+msgstr ""
+
