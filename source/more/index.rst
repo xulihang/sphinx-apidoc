@@ -8,3 +8,4 @@
    markdown
    other-languages
    i18n
+   rest
